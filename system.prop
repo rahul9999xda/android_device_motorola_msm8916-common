@@ -38,6 +38,7 @@ media.stagefright.less-secure=true
 # Display
 ro.opengles.version=196608
 persist.hwc.mdpcomp.enable=1
+sys.display-size=3840x2160
 
 # FRP
 #ro.frp.pst=/dev/block/bootdevice/by-name/frp

@@ -90,7 +90,6 @@ PRODUCT_PACKAGES += \
     libshim_atomic \
     libc_util \
     libshims_camera \
-    libshims_sensorlistener \
     Camera2 \
     Snap
 
